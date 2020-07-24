@@ -1,0 +1,11 @@
+WINDOW_BACKGROUND = '#CCCCCC' #______
+                              #RRGGBB
+TITLE_DESIGN = ('Arial',40)
+BUTTON_DESIGN = ('Arial',18)
+TEXT_DESIGN = ('Arial',20)
+
+SECONDARY_TITLE_DESIGN = ('ARIAL',16)
+
+ENCRYPT_BUTTON_BACKGROUND = '#fdb5b5'
+
+DECRYPT_BUTTON_BACKGROUND = '#b4dab5'
